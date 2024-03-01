@@ -41,5 +41,3 @@ Here's a brief step-by-step breakdown of what the code does:
 
 *8. Additional analysis:*
    - The code calculates the average 1-day and 7-day retention rates for each A/B group.
-
-It's important to note that this is a general overview of the code's functionality, and a deeper understanding of the libraries and statistical concepts involved might be necessary for a complete interpretation of the analysis.
